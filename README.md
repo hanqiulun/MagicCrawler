@@ -1,4 +1,4 @@
-# MagicCrawler
+# :bowtie: :bowtie: MagicCrawler
 
 Collect scripts for various crawlers
 
