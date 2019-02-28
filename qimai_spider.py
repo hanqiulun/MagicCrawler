@@ -37,7 +37,7 @@ params = {
 # 自定义加密函数
 def encrypt(
     a: str,
-    n="a12c0fa6ab9119bc90e4ac7700796a53"
+    n="00000008d78d46"
 ) -> str:
     s, n = list(a), list(n)
     sl, nl = len(s), len(n)
