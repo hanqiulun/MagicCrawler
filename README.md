@@ -1,6 +1,6 @@
 # :bowtie: :bowtie: MagicCrawler
 
-Collect scripts for various crawlers
+Collect all kinds of interesting crawler scripts and tackle them against the anti-climbing method
 
 ### :one:. qimai 
 ![googleplay](https://github.com/hanqiulun/MagicCrawler/blob/master/static/googleplay.png)
