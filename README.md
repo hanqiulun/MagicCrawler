@@ -1,4 +1,4 @@
-# :bowtie: :bowtie: MagicCrawler :bowtie::bowtie::bowtie:
+# :bowtie: :bowtie: :bowtie: MagicCrawler :bowtie::bowtie::bowtie:
 
 Collect all kinds of interesting crawler scripts and tackle them against the anti-climbing method
 
