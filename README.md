@@ -1,4 +1,8 @@
-# :bowtie: :bowtie: :bowtie: MagicCrawler :bowtie::bowtie::bowtie:
+ ![](https://img.shields.io/badge/build%20-success-brightgreen.svg)
+![](https://img.shields.io/badge/language-python-orange.svg)
+![](https://img.shields.io/aur/license/yaourt.svg)
+
+ MagicCrawler
 
 Collect all kinds of interesting crawler scripts and tackle them against the anti-climbing method
 
